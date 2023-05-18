@@ -63,7 +63,7 @@ To use the project, follow these steps:
 panel serve airbnb.ipynb
 ```
 ## Acknowledgement
-This project was inspired by the work and ideas of [Thu-Vu92](https://github.com/thu-vu92)
+This project was inspired by the work and ideas of [osabob](https://github.com/osabobo)
 
 ## Contributing
 
